@@ -1,3 +1,10 @@
+#프로젝트소개
+#개발인원 및 기간
+#기술 스택
+#프로젝트 진행 과정
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
